@@ -1,0 +1,2 @@
+# ERC865
+Implementation of <a href="https://github.com/ethereum/EIPs/issues/865">ERC865 functionality</a> for an ERC20 token to allow for delegated processing of transactions on behalf of a user, where the user does not need to hold Ether in order to pay gas costs. 

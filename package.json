@@ -1,0 +1,22 @@
+{
+  "name": "ERC865",
+  "version": "1.0.0",
+  "description": "ERC865 contracts and tests",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsdavis28/ERC865.git"
+  },
+  "keywords": ["ERC865"],
+  "author": "jsdavis28",
+  "license": "MIT",
+  "dependencies": {
+    "openzeppelin-solidity": "^2.0.0"
+  }
+}
